@@ -10,7 +10,7 @@ The landing page effectively presents the Omnifood service, which uses an AI-cen
 
 This project has been successfully deployed and is live on Netlify.
 
-- **View the live page:** [Insert Netlify Deployment Link Here]
+- **View the live page:** https://omnifood-mhaske.netlify.app/
 
 ## ✨ Features of the Landing Page
 
